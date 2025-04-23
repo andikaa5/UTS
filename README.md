@@ -1,8 +1,7 @@
 ## kasirAjaAndroid 
 mobile apps android kasirAja - aplikasi POS sedehana dengan berbagai fitur didalamnya dibangun dengan react native 
 
-### backend
-`Hapijs REST API - kasirAja`: [Link](https://github.com/ajikamaludin/hapi-kasiraja-api)
+
 
 ### screenshots
 <div>
@@ -16,17 +15,10 @@ mobile apps android kasirAja - aplikasi POS sedehana dengan berbagai fitur didal
 <img align="top" src="https://github.com/ajikamaludin/react-native-kasiraja-mobile/raw/dev/screenshots/8.jpg" width="200px">
 </div>
 
-### Support me
 
-<a href="https://trakteer.id/ajikamaludin" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-2.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
-### get the app
-<a href="https://play.google.com/store/apps/details?id=com.kasirajaandroid" target="_blank">
-<img align="top" src="https://github.com/ajikamaludin/react-native-kasiraja-mobile/raw/dev/screenshots/google-play-logo2.png" width="250px" height="75px">
-</a>
 
-### demo
-[Demo Video](https://www.youtube.com/watch?v=pBqVOmw8Ess)
+
 
 ### feature
 - nodejs rest api
@@ -36,7 +28,7 @@ mobile apps android kasirAja - aplikasi POS sedehana dengan berbagai fitur didal
 - pembelian
 - penjualan (scan barcode)
 - diskon penjualan
-- UI design use [NativeBase](https://nativebase.io/)
+
 ### development 
 - install
 
